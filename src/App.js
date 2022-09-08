@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React with SpringBoot, GraphQL, DV, Connector, Excel etc.
         </a>
       </header>
     </div>
