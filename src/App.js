@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Learn React with SpringBoot, GraphQL, DV, Connector, Excel etc</p>
+        <p>Hiiiiiiiiiiii</p>
       </header>
     </div>
   );
